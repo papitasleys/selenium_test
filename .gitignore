@@ -1,0 +1,10 @@
+## ignore this files ##
+# system file
+*.DS_Store
+
+# target directory
+target/
+
+# idea project file
+*iml
+.idea/
